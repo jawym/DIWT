@@ -1,0 +1,32 @@
+Página inicial ->       Logotipo (semi-ok)
+			Slider con fondos y fotos
+			Explicacion del restaurante: Donde nacimos, años de experiencia(añadir texto real)
+
+Carta de Platos ->    Menu desplegable
+			Entrantes
+			Primeros	
+			Segundos
+			Postres
+			Bebidas(2 o 3 por cada item)
+
+Página de Menús ->    MEnu desplegable
+			2 menus carnicos
+			2 menus vegetarianos(entrante,segundo,postre y bebida)Foto con fotor y precio
+
+
+Reserva de mesa -> 	Página con el formulario sencillo(copiar el que hay)
+
+			nombre
+			telefono
+			nºpersonas
+			correo
+
+
+Galeria de fotos  ->  DEscargar algun plugin Javascript y cambiar las fotos
+
+
+Página localizacion -> Sólo falta dirección de google (ok!)
+
+
+******* Arreglar el footer	
+******* Añadir las mierdas de pan(Enserio...para que?)	
